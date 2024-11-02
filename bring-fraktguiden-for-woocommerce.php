@@ -6,7 +6,7 @@
  * Author:               Cove AS
  * Author URI:           https://bringfraktguiden.no/
  *
- * Version:              1.10.11
+ * Version:              1.10.12
  * Requires at least:    5.6.0
  * Tested up to:         6.6.1
  *

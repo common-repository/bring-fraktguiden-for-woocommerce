@@ -26,7 +26,7 @@ use BringFraktguidenPro\BringFraktguidenPro;
  */
 class Bring_Fraktguiden {
 
-	const VERSION = '1.10.11';
+	const VERSION = '1.10.12';
 
 	const TEXT_DOMAIN = Fraktguiden_Helper::TEXT_DOMAIN;
 
